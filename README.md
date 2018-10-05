@@ -1,3 +1,3 @@
 # Debugging 
 ------
-I will be debugging on simple and one complex Ruby program.
+I will be debugging one simple and one complex Ruby program.
